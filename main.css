@@ -26,3 +26,17 @@
 #contact {
   height:3000px;
 }
+
+#registration {
+  margin:auto;
+  width: 260px;
+  background-color:#eeeeee;
+  padding:1em;
+  border-radius: 1em;
+  text-align:center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 1);;
+}
+
+.form-horizontal {
+  margin:0;
+}
